@@ -1,5 +1,5 @@
 
-<p>Hi there 👋. You found Kevin Samoei's profile.</p>
+<p>Hi there 👋. I am Kevin Samoei. A software engineer and a learner</p>
 
 <p> I love Golang, Python and Scala. I currently work with Golang and Scala. I have worked with Rails, Javascript and recently developed interest and learning C++.</p>
 
